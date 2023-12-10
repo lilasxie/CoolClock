@@ -1,0 +1,2 @@
+# CoolClock
+A magical clock
